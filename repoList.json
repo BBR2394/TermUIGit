@@ -1,0 +1,49 @@
+{
+"repo":[
+{
+	"epitech":
+	{
+    	  "tek1":[{
+
+           }],
+          "tek2":[{
+             "piscineCpp":
+             [
+             	"piscine_cpp_d01", 
+             	"piscine_cpp_d02a", 
+             	"piscine_cpp_d02m",
+             	"piscine_cpp_d03",
+             	"piscine_cpp_d06",
+             	"piscine_cpp_d07a",
+             	"piscine_cpp_d07m",
+             	"piscine_cpp_d08",
+             	"piscine_cpp_d09",
+             	"piscine_cpp_d010",
+             	"piscine_cpp_d013",
+             	"piscine_cpp_d014",
+             	"piscine_cpp_d015",
+             	"piscine_cpp_d016",
+             	"piscine_cpp_d017"
+             ],
+             "systemUnix":[{
+              }],
+             "cpp":[{
+              }]
+           }],
+           "tek2bis":[{
+             "piscineCpp":[{
+              }],
+             "cpp":[{
+              }]
+           }],
+          "tek3":[{
+
+           }]
+	},
+	"github":
+	{
+		
+	}
+	}
+]
+}

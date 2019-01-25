@@ -1,0 +1,23 @@
+{
+"Languages":
+	[
+		{
+			"language":"francais",
+			"code": "fr",
+    		"hello": "bonjour",
+    		"bye": "au revoir",
+    		"pb": "un probleme est survenue",
+    		"test": "ceci est un message de test",
+    		"erOpenFile": "une erreur est survenue lors de louverture du fichier"
+		},
+		{
+			"language": "english",
+			"code": "en",
+			"hello": "hello",
+			"bye": "goodby",
+			"pb": "an error occured",
+			"test": "this is a test",
+			"erOpenFile": "an error occured when opening the file"
+		}
+	]
+}
