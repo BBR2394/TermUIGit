@@ -97,7 +97,7 @@ def open_repo_file():
 
 def clone_repo():
 	global repoJson
-	print("sans la fonctio clone repo")
+	print("in the clone funtion")
 	print(repoJson['repo']['github']['tous'])
 	
 
